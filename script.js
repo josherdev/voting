@@ -1,5 +1,5 @@
 // ============================================================================
-// PEGA AQUÍ LA URL QUE TE DIO GOOGLE APPS SCRIPT
+// URL GOOGLE APPS SCRIPT
 // ============================================================================
 const API_URL = "https://script.google.com/macros/s/AKfycbwW3mbb6T8qsxc0hBEJwjraG2cBX-8mmkkfdBvzXn_Mdb7MFUXjh61VUOHCzfQLk60X/exec";
 
